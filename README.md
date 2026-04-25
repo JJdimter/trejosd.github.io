@@ -16,4 +16,5 @@ Estos links se recomienda sean abiertos en un dispositivo android.
 
 ### 📋 Links de proyectos forkeados y editados para DesafioLata,
 
-- Insertar links aca
+- https://github.com/TrejosD/cafeteria_page
+- https://github.com/TrejosD/cuppon_colaborate
